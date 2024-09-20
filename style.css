@@ -1,0 +1,38 @@
+.main{
+    height: 100px;
+    width: 600px;
+    background-color: aqua;
+    .row1{
+        .row1c1{
+            width: 300px;
+            height: 50px;
+            background-color:burlywood;
+            float: left;
+            
+        }
+        .row1c2{
+            width: 300px;
+            height: 50px;
+            background-color:peru;
+            float: right;
+        }
+    }
+    .row2{
+        .row2c1{
+            width: 300px;
+            height: 50px;
+            background-color: gray;
+            float: left;
+        }
+        .row2c2{
+            width: 300px;
+            height: 50px;
+            float: left;
+            background-color: hotpink;
+        }
+
+    }
+    
+
+
+}

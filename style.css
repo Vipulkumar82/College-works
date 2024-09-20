@@ -32,7 +32,62 @@
         }
 
     }
-    
+}
 
+.main2{
+    /* width: 900px;
+    height: 200px;
+    background-color: blue; */
+    .R1{
+        .R1c1{
+            width: 200px;
+            height: 50px;
+            background-color: aquamarine;
+            float: left;
+            text-align: center;
 
+        }
+        .R1c2{
+            width: 500px;
+            height: 50px;
+            background-color: rgb(13, 135, 95);
+            float: left;
+            text-align: center;
+
+        }
+        .R1c3{
+            width: 200px;
+            height: 50px;
+            background-color:plum;
+            float: left;
+            text-align: center;
+
+        }
+    }
+
+    .R2{
+        width: 900px;
+        height: 100px;
+        background-color: antiquewhite;
+        text-align: center;
+    }
+
+    .R3{
+        .R3c1{
+            width: 450px;
+            height: 50px;
+            background-color: red;
+            float: left;
+            text-align: center;
+
+        }
+        .R3c2{
+            width: 450px;
+            height: 50px;
+            background-color: gold;
+            float: left;
+            text-align: center;
+
+        }
+    }
 }
